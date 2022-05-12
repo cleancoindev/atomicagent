@@ -48,7 +48,7 @@
   "dependencies": {
     "@amplitude/node": "^1.8.4",
     "@liquality/bitcoin-esplora-batch-api-provider": "1.13.4",
-    "@liquality/bitcoin-esplora-swap-find-provider": "1.13.4",
+    "@liquality/bitcoin-esplora-swap-find-provider": "1.13.12",
     "@liquality/bitcoin-fee-api-provider": "1.13.4",
     "@liquality/bitcoin-js-wallet-provider": "1.13.4",
     "@liquality/bitcoin-networks": "1.13.4",
